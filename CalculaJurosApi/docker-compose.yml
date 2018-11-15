@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  calculajurosapi:
+    image: ${DOCKER_REGISTRY}calculajurosapi
+    build:
+      context: .
+      dockerfile: CalculaJurosApi\Dockerfile

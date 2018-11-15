@@ -1,0 +1,5 @@
+C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\bin\Debug\CalculaJurosApi.dll
+C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\bin\Debug\CalculaJurosApi.pdb
+C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\obj\Debug\docker-compose.dcproj.CopyComplete

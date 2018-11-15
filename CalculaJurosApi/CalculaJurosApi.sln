@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaJurosApi", "CalculaJurosApi\CalculaJurosApi.csproj", "{4DB323DC-F1B4-477F-81B1-A4EF0F8535FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculaJurosApi", "CalculaJurosApi\CalculaJurosApi.csproj", "{4DB323DC-F1B4-477F-81B1-A4EF0F8535FA}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{5B1C790D-2806-482B-ADBC-5DFF9EDE6D53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4DB323DC-F1B4-477F-81B1-A4EF0F8535FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DB323DC-F1B4-477F-81B1-A4EF0F8535FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DB323DC-F1B4-477F-81B1-A4EF0F8535FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1C790D-2806-482B-ADBC-5DFF9EDE6D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1C790D-2806-482B-ADBC-5DFF9EDE6D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1C790D-2806-482B-ADBC-5DFF9EDE6D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1C790D-2806-482B-ADBC-5DFF9EDE6D53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

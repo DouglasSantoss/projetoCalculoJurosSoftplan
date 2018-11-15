@@ -1,0 +1,22 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  calculajurosapi:
+    build:
+      context: C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi
+      dockerfile: CalculaJurosApi\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: calculajurosapi
+    ports:
+    - published: 52060
+      target: 80
+    - published: 44397
+      target: 443
+    volumes:
+    - C:\Users\DodoSantoss\AppData\Roaming\ASP.NET\Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+    - C:\Users\DodoSantoss\AppData\Roaming\Microsoft\UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+version: '3.4'

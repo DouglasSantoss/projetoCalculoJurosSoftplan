@@ -1,8 +1,0 @@
-<Project>
-  <PropertyGroup>
-    <DockerfileFile>c:\users\dodosantoss\source\repos\projetocalculojurossoftplan\calculajurosapi\calculajurosapi\dockerfile</DockerfileFile>
-  </PropertyGroup>
-  <ItemGroup>
-    <ToolsTarget Include="ContainerBuild" />
-  </ItemGroup>
-</Project>

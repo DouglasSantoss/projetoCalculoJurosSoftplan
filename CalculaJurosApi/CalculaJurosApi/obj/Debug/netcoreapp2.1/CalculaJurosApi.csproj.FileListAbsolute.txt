@@ -20,9 +20,10 @@ C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\Ca
 C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\CalculaJurosApi.csproj.CoreCompileInputs.cache
 C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\CalculaJurosApi.RazorAssemblyInfo.cache
 C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\CalculaJurosApi.RazorAssemblyInfo.cs
+C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\CalculaJurosApi.AssemblyInfoInputs.cache
 C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\CalculaJurosApi.AssemblyInfo.cs
 C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\CalculaJurosApi.RazorTargetAssemblyInfo.cache
 C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\CalculaJurosApi.dll
 C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\CalculaJurosApi.pdb
-C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\DodoSantoss\source\repos\projetoCalculoJurosSoftplan\CalculaJurosApi\CalculaJurosApi\obj\Debug\netcoreapp2.1\CalculaJurosApi.csprojAssemblyReference.cache
