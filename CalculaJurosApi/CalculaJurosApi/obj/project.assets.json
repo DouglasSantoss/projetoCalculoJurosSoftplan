@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DodoSantoss\\source\\repos\\CalculaJurosApi\\CalculaJurosApi\\CalculaJurosApi.csproj",
+      "projectUniqueName": "C:\\Users\\DodoSantoss\\source\\repos\\projetoCalculoJurosSoftplan\\CalculaJurosApi\\CalculaJurosApi\\CalculaJurosApi.csproj",
       "projectName": "CalculaJurosApi",
-      "projectPath": "C:\\Users\\DodoSantoss\\source\\repos\\CalculaJurosApi\\CalculaJurosApi\\CalculaJurosApi.csproj",
+      "projectPath": "C:\\Users\\DodoSantoss\\source\\repos\\projetoCalculoJurosSoftplan\\CalculaJurosApi\\CalculaJurosApi\\CalculaJurosApi.csproj",
       "packagesPath": "C:\\Users\\DodoSantoss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DodoSantoss\\source\\repos\\CalculaJurosApi\\CalculaJurosApi\\obj\\",
+      "outputPath": "C:\\Users\\DodoSantoss\\source\\repos\\projetoCalculoJurosSoftplan\\CalculaJurosApi\\CalculaJurosApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

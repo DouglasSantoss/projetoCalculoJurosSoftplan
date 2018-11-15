@@ -61,7 +61,7 @@ namespace CalculaJurosApi.Controllers
         [HttpGet("showmethecode", Name = "showmethecode")]
         public string ShowMeTheCode()
         {
-            return "link para o repositorio github";
+            return @"https://github.com/DouglasSantoss/projetoCalculoJurosSoftplan.git";
         }
 
         [HttpGet]
