@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <DockerTargetOS>Windows</DockerTargetOS>
+    <DockerTargetOS>Linux</DockerTargetOS>
     <UserSecretsId>ef03e048-68a8-4061-b685-5bba0793155b</UserSecretsId>
     <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
